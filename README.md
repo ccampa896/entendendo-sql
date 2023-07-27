@@ -61,7 +61,7 @@
 
 <p align="left">REFERÊNCIAS:</p>
 <ul>
-  <li><i>PEREIRA, Max Roberto. Banco de Dados e Mineração. Maringá - PR: Unicesumar, 2021. 228 p.</i><li>
+  <li><i>PEREIRA, Max Roberto. Banco de Dados e Mineração. Maringá - PR: Unicesumar, 2021. 228 p.</i></li>
   <li><i>SILBERSCHATZ, Abraham; KORTH, S.; SUDARSHAN, Henry F. Sistema de Banco de Dados. 7. ed. Rio de Janeiro: GEN LTC, 2020. 754 p.</i></li>
 </ul>
 
